@@ -1,22 +1,11 @@
-# sales_log_application
+# Sales Order Application
 
-A Clojure library designed to ... well, that part is up to you.
+Sales Order Application is a simple application using which you can see the customer details, product details and sales
+details.
+
+The main focus of this assignment is to understand how to approach the problem differently based on the class of language
+chosen. This project is build using Clojure programming language which belongs to Functional Programming Language class.
 
 ## Usage
 
-FIXME
-
-## License
-
-Copyright © 2020 FIXME
-
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
-
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.
+Run sales.clj
