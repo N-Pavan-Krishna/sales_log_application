@@ -1,6 +1,6 @@
-(ns sales-log-application.core-test
+(ns sales-log-application.sales-test
   (:require [clojure.test :refer :all]
-            [sales-log-application.core :refer :all]))
+            [sales-log-application.sales :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
